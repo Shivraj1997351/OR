@@ -1,0 +1,2 @@
+start ngApp by ng serve command
+start server by node server command
